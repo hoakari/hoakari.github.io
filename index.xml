@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Y.Miwa ポートフォリオ</title>
-    <link>http://hoakari.xii.jp/</link>
+    <link>https://hoakari.github.io/</link>
     <description>Recent content on Y.Miwa ポートフォリオ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Tue, 06 Jun 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://hoakari.xii.jp/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hoakari.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>スキルセット</title>
-      <link>http://hoakari.xii.jp/skill/</link>
+      <link>https://hoakari.github.io/skill/</link>
       <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://hoakari.xii.jp/skill/</guid>
+      <guid>https://hoakari.github.io/skill/</guid>
       <description>準委任業務、請負業務、インストラクター業務、個人開発を含みます。
 実務以外は独学と記載しています。
 　言語  Python3 (3年) PHP7 (2年) JavaScript (2年) Java (1年) C# (2年) C (1年) Node.js (半年) Go (独学) VBA (1年) VBScript (半年) VB.Net (半年) Swift (半年) HTML5/CSS3 (3年)  　フレームワーク・ライブラリ  Django (2年) jQuery (2年) Bootstrap (2年) Selenium (1年) React (独学) Flask (半年) CakePHP (半年) Electron (半年) Xamarin (半年)  　データベース  MySQL (1年) SQLite (半年) PostgreSQL (半年) MongoDB (半年) Microsoft Access (1年)  　OS・サーバー  Linux(CentOS、Ubuntu) (2年) AWS (1年) Windowsサーバー (半年) Apache HTTP Server (1年) Raspberry Pi (半年)  　CMS  WordPress (1年) Hugo (独学) Gatsby (独学)  　その他  Redmine (2年) Git (2年) RPA(UiPath) (半年) Microsoft Word (3年) Microsoft Excel (3年) Microsoft PowerPoint (3年)  　開発ツール  Visual Studio Code WinSCP Putty Unity Visual Studio Eclipse PyCharm AndroidStudio Xcode Vim Atom DreamWeaver  　デザインツール  Photoshop (半年) Illustrator (半年) Inkscape (独学) ClipStudio (独学) Live2D Cubism (独学)  </description>
