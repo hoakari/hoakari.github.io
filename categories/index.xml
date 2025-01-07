@@ -10,5 +10,23 @@
 	<atom:link href="https://hoakari.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>個人開発</title>
+      <link>https://hoakari.github.io/categories/%E5%80%8B%E4%BA%BA%E9%96%8B%E7%99%BA/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoakari.github.io/categories/%E5%80%8B%E4%BA%BA%E9%96%8B%E7%99%BA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>実務履歴</title>
+      <link>https://hoakari.github.io/categories/%E5%AE%9F%E5%8B%99%E5%B1%A5%E6%AD%B4/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoakari.github.io/categories/%E5%AE%9F%E5%8B%99%E5%B1%A5%E6%AD%B4/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
