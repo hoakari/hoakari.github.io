@@ -6,10 +6,93 @@
     <description>Recent content on Y.Miwa ポートフォリオ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 06 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://hoakari.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>パソコン教室インストラクター業務</title>
+      <link>https://hoakari.github.io/pc_school/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoakari.github.io/pc_school/</guid>
+      <description>&lt;p&gt;パソコン教室での委託講師としてインストラクター業務。
+主な対象者は初心者やOffJTの新入社員。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PayPayAPI WEBアプリ開発</title>
+      <link>https://hoakari.github.io/paypay_web/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoakari.github.io/paypay_web/</guid>
+      <description>&lt;p&gt;PayPayAPIを利用したWEBアプリ開発。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>既存HTMLデザイン修正</title>
+      <link>https://hoakari.github.io/html_repair/</link>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoakari.github.io/html_repair/</guid>
+      <description>&lt;p&gt;既存HTMLのデザイン修正&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>BluetoothスキャンAndroidアプリ開発</title>
+      <link>https://hoakari.github.io/android_app_bt/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoakari.github.io/android_app_bt/</guid>
+      <description>&lt;p&gt;KotlinでのAndroid開発。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>BluetoothスキャンAndroidアプリ開発</title>
+      <link>https://hoakari.github.io/android_app_bt/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoakari.github.io/android_app_bt/</guid>
+      <description>&lt;p&gt;KotlinでのAndroid開発。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>某社公式サイト改修</title>
+      <link>https://hoakari.github.io/homepage_remake/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoakari.github.io/homepage_remake/</guid>
+      <description>&lt;p&gt;某社公式サイトの改修。
+主要ブラウザ間での差異を少なくするよう開発。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ブログのリプレイス</title>
+      <link>https://hoakari.github.io/hugo/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoakari.github.io/hugo/</guid>
+      <description>&lt;p&gt;個人管理ブログをWordPressよりリプレイス。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>RPA開発テスト</title>
+      <link>https://hoakari.github.io/uipath/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoakari.github.io/uipath/</guid>
+      <description>&lt;p&gt;現場でのプレ導入でのテスト開発、運用。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>社内書類管理ウェブアプリ開発</title>
+      <link>https://hoakari.github.io/django/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoakari.github.io/django/</guid>
+      <description>&lt;p&gt;社内書類管理システムとして開発。ポジションは技術選定、設計、デザイン、実装を担当。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>スキルセット</title>
@@ -18,8 +101,26 @@
       
       <guid>https://hoakari.github.io/skill/</guid>
       <description>準委任業務、請負業務、インストラクター業務、個人開発を含みます。
-実務以外は独学と記載しています。(最終更新日: 2019年9月4日)
-　言語  Python3 (3年) PHP7 (2年) JavaScript (2年) Java (1年) C# (2年) C (1年) Node.js (半年) Go (独学) VBA (1年) VBScript (半年) VB.Net (半年) Swift (半年) HTML5/CSS3 (3年)  　フレームワーク・ライブラリ  Django (2年) jQuery (2年) Bootstrap (2年) Selenium (1年) React (独学) Flask (半年) CakePHP (半年) Electron (半年) Xamarin (半年)  　データベース  MySQL (1年) SQLite (半年) PostgreSQL (半年) MongoDB (半年) Microsoft Access (1年)  　OS・サーバー  Linux(CentOS、Ubuntu) (2年) AWS (1年) Windowsサーバー (半年) Apache HTTP Server (1年) Raspberry Pi (半年)  　CMS  WordPress (1年) Hugo (独学) Gatsby (独学)  　その他  Redmine (2年) Git (2年) RPA(UiPath) (半年) Microsoft Word (3年) Microsoft Excel (3年) Microsoft PowerPoint (3年)  　開発ツール  Visual Studio Code WinSCP Putty Unity Visual Studio Eclipse PyCharm AndroidStudio Xcode Vim Atom DreamWeaver  　デザインツール  Photoshop (半年) Illustrator (半年) Inkscape (独学) ClipStudio (独学) Live2D Cubism (独学)  </description>
+実務以外は独学と記載。(最終更新日: 2025年1月8日)
+　言語  Python (9年) HTML/CSS (9年) JavaScript (8年) PHP (3年) C# (3年) Kotlin (2年) TypeScript (2年) C (1年) Java (1年) VBA (1年) GoogleAppsScript (1年) Node.js (半年) VBScript (半年) VB.Net (半年) Swift (半年) Go (独学) Lisp (独学) Dart (独学)  　サーバーサイド  Django (3年) Flask (4年) CakePHP (半年) Gin (独学)  　フロントエンド  jQuery (3年) Bootstrap (3年) Vue/Nuxt (1年) React (独学) React/Next (独学)  　SSG  Hugo (独学) Gatsby (独学)  　ゲームエンジン  Unity (2年) Godot (独学)  　その他フレームワーク・ライブラリ  Selenium (1年) Electron (半年) Xamarin (半年) SQLAlchemy (2年) GORM (独学)  　データベース  MySQL/MariaDB (8年) Access (2年) SQLite (半年) PostgreSQL (半年) MongoDB (半年) SQL Server (半年)  　OS・サーバー  Amazon ec2 (9年) Linux(CentOS、Ubuntu) (5年) Android (5年) Apache HTTP Server (2年) Amazon RDS (2年) Windowsサーバー (半年) Raspberry Pi (半年) iOS (半年) Nginx (独学)  　その他  Outsystems (2年) Redmine (3年) RPA(UiPath) (半年) Microsoft Word (3年) Microsoft Excel (3年) Microsoft PowerPoint (3年)  　主な開発ツール  Visual Studio Code WinSCP Putty Visual Studio AndroidStudio  　デザインツール  Photoshop (半年) Illustrator (半年) Inkscape (独学) ClipStudio (独学) Live2D Cubism (独学)  </description>
+    </item>
+    
+    <item>
+      <title>Selenium/Pythonによるスクレイピングシステム</title>
+      <link>https://hoakari.github.io/selenium/</link>
+      <pubDate>Thu, 30 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoakari.github.io/selenium/</guid>
+      <description>&lt;p&gt;Selenium/Pythonを使ったスクレイピングシステムの開発、運用。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Selenium/Pythonによるスクレイピングシステム</title>
+      <link>https://hoakari.github.io/selenium/</link>
+      <pubDate>Thu, 30 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoakari.github.io/selenium/</guid>
+      <description>&lt;p&gt;Selenium/Pythonを使ったスクレイピングシステムの開発、運用。&lt;/p&gt;</description>
     </item>
     
   </channel>
