@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CSS on Y.Miwa ポートフォリオ</title>
+    <link>https://hoakari.github.io/tags/css/</link>
+    <description>Recent content in CSS on Y.Miwa ポートフォリオ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 04 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hoakari.github.io/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PayPayAPI WEBアプリ開発</title>
+      <link>https://hoakari.github.io/paypay_web/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoakari.github.io/paypay_web/</guid>
+      <description>&lt;p&gt;PayPayAPIを利用したWEBアプリ開発。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>既存HTMLデザイン修正</title>
+      <link>https://hoakari.github.io/html_repair/</link>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoakari.github.io/html_repair/</guid>
+      <description>&lt;p&gt;既存HTMLのデザイン修正&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>某社公式サイト改修</title>
+      <link>https://hoakari.github.io/homepage_remake/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoakari.github.io/homepage_remake/</guid>
+      <description>&lt;p&gt;某社公式サイトの改修。
+主要ブラウザ間での差異を少なくするよう開発。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

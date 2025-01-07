@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Y.Miwa ポートフォリオ</title>
+    <link>https://hoakari.github.io/tags/python/</link>
+    <description>Recent content in Python on Y.Miwa ポートフォリオ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 04 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hoakari.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PayPayAPI WEBアプリ開発</title>
+      <link>https://hoakari.github.io/paypay_web/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoakari.github.io/paypay_web/</guid>
+      <description>&lt;p&gt;PayPayAPIを利用したWEBアプリ開発。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>社内書類管理ウェブアプリ開発</title>
+      <link>https://hoakari.github.io/django/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoakari.github.io/django/</guid>
+      <description>&lt;p&gt;社内書類管理システムとして開発。ポジションは技術選定、設計、デザイン、実装を担当。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Selenium/Pythonによるスクレイピングシステム</title>
+      <link>https://hoakari.github.io/selenium/</link>
+      <pubDate>Thu, 30 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoakari.github.io/selenium/</guid>
+      <description>&lt;p&gt;Selenium/Pythonを使ったスクレイピングシステムの開発、運用。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Selenium/Pythonによるスクレイピングシステム</title>
+      <link>https://hoakari.github.io/selenium/</link>
+      <pubDate>Thu, 30 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoakari.github.io/selenium/</guid>
+      <description>&lt;p&gt;Selenium/Pythonを使ったスクレイピングシステムの開発、運用。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

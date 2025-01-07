@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>インストラクター業務 on Y.Miwa ポートフォリオ</title>
+    <link>https://hoakari.github.io/tags/%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E6%A5%AD%E5%8B%99/</link>
+    <description>Recent content in インストラクター業務 on Y.Miwa ポートフォリオ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Thu, 20 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hoakari.github.io/tags/%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E6%A5%AD%E5%8B%99/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>パソコン教室インストラクター業務</title>
+      <link>https://hoakari.github.io/pc_school/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoakari.github.io/pc_school/</guid>
+      <description>&lt;p&gt;パソコン教室での委託講師としてインストラクター業務。
+主な対象者は初心者やOffJTの新入社員。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
