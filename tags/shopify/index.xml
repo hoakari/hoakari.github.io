@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shopify on Y.Miwa ポートフォリオ</title>
+    <link>https://hoakari.github.io/tags/shopify/</link>
+    <description>Recent content in Shopify on Y.Miwa ポートフォリオ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Thu, 04 Mar 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hoakari.github.io/tags/shopify/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Shopify×Salesforceデータ連携プログラム開発</title>
+      <link>https://hoakari.github.io/shopify_data_integration/</link>
+      <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoakari.github.io/shopify_data_integration/</guid>
+      <description>&lt;p&gt;PythonによるShopify + Salesforce連携プログラム開発。（2020年11月〜、継続中）&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Shopify更新自動化スクリプト開発（GoogleAppsScript）</title>
+      <link>https://hoakari.github.io/shopify_weekly_task_automation/</link>
+      <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoakari.github.io/shopify_weekly_task_automation/</guid>
+      <description>&lt;p&gt;ShopifyAPI + GoogleAppsScriptによるサイト更新自動化スクリプト、決済情報・顧客情報等の自動収集スクリプトの開発。（2020年11月〜、継続中）&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Shopifyテーマ更新（Liquid）</title>
+      <link>https://hoakari.github.io/shopify_liquid_update/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoakari.github.io/shopify_liquid_update/</guid>
+      <description>&lt;p&gt;Liquid言語によるShopify ECサイトのテーマ・表示更新対応。（2020年11月〜、継続中）&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

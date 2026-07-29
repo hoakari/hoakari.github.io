@@ -6,10 +6,19 @@
     <description>Recent content in Flask on Y.Miwa ポートフォリオ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 04 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://hoakari.github.io/tags/flask/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>オンラインチケットサイトの機能追加改修・バグ修正</title>
+      <link>https://hoakari.github.io/ticket_site_maintenance/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoakari.github.io/ticket_site_maintenance/</guid>
+      <description>&lt;p&gt;オンラインチケットサイトの機能の追加改修、バグ修正。（2021年9月～2022年11月）&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>PayPayAPI WEBアプリ開発</title>
@@ -18,6 +27,15 @@
       
       <guid>https://hoakari.github.io/paypay_web/</guid>
       <description>&lt;p&gt;PayPayAPIを利用したWEBアプリ開発。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Excel連携REST APIサーバー開発</title>
+      <link>https://hoakari.github.io/excel_calc_api/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoakari.github.io/excel_calc_api/</guid>
+      <description>&lt;p&gt;Windowsサーバー上で運用するREST APIサーバーの開発。&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -20,5 +20,23 @@
       <description>&lt;p&gt;KotlinでのAndroid開発。&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title>Unityによる個人ゲーム開発・リリース</title>
+      <link>https://hoakari.github.io/unity_indie_games/</link>
+      <pubDate>Thu, 30 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoakari.github.io/unity_indie_games/</guid>
+      <description>&lt;p&gt;Unityを使用した簡易的なゲームの個人開発。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>メールアプリ（Xamarin/Android）</title>
+      <link>https://hoakari.github.io/xamarin_mail_app/</link>
+      <pubDate>Thu, 30 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoakari.github.io/xamarin_mail_app/</guid>
+      <description>&lt;p&gt;Xamarinを使用したAndroid向けメールアプリの個人開発。&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>

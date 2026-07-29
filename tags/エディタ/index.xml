@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>エディタ on Y.Miwa ポートフォリオ</title>
+    <link>https://hoakari.github.io/tags/%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF/</link>
+    <description>Recent content in エディタ on Y.Miwa ポートフォリオ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Thu, 30 Dec 2010 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hoakari.github.io/tags/%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>開発環境</title>
+      <link>https://hoakari.github.io/dev_environment/</link>
+      <pubDate>Thu, 30 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoakari.github.io/dev_environment/</guid>
+      <description>&lt;h1 id=&#34;ide-エディタ&#34;&gt;IDE　エディタ&lt;/h1&gt;
+
+&lt;p&gt;公私ともに最も利用するのはVisual Studio Code
+使用経験としてはEclipse、VisualStudio、AndroidStudio、Xcode、PyCharm、Vim、Atom、Brackets、DreamWeaver&lt;/p&gt;
+
+&lt;h1 id=&#34;その他開発に利用するソフトウェア&#34;&gt;その他開発に利用するソフトウェア&lt;/h1&gt;
+
+&lt;p&gt;WinSCP、Putty、VirtualBox&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

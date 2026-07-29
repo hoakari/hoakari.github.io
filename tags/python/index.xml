@@ -6,10 +6,64 @@
     <description>Recent content in Python on Y.Miwa ポートフォリオ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 04 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://hoakari.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AWS EC2バージョンアップ・Docker化／Python近代化</title>
+      <link>https://hoakari.github.io/aws_docker_python_modernize/</link>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoakari.github.io/aws_docker_python_modernize/</guid>
+      <description>&lt;p&gt;既存のAWS EC2環境のバージョンアップおよびDocker化、Pythonプロジェクトの近代化対応。（2026年5月〜現在）&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>初学者向けPython講座チャットサポート</title>
+      <link>https://hoakari.github.io/python_course_support/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoakari.github.io/python_course_support/</guid>
+      <description>&lt;p&gt;制作に携わったプログラミング初学者向けのPython講座教材の受講生にチャットサポートを行った。（2023年10月〜2026年7月）&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>初学者向けPython講座教材制作</title>
+      <link>https://hoakari.github.io/python_course_material/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoakari.github.io/python_course_material/</guid>
+      <description>&lt;p&gt;プログラミング初学者向けのPython講座教材制作。（2023年8月～2023年10月）&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>オンラインチケットサイトの機能追加改修・バグ修正</title>
+      <link>https://hoakari.github.io/ticket_site_maintenance/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoakari.github.io/ticket_site_maintenance/</guid>
+      <description>&lt;p&gt;オンラインチケットサイトの機能の追加改修、バグ修正。（2021年9月～2022年11月）&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Shopify×Salesforceデータ連携プログラム開発</title>
+      <link>https://hoakari.github.io/shopify_data_integration/</link>
+      <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoakari.github.io/shopify_data_integration/</guid>
+      <description>&lt;p&gt;PythonによるShopify + Salesforce連携プログラム開発。（2020年11月〜、継続中）&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>オンライン会見WEBアプリ開発</title>
+      <link>https://hoakari.github.io/online_press/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoakari.github.io/online_press/</guid>
+      <description>&lt;p&gt;Djangoによるオンライン会見WEBアプリ開発。（2020年11月〜2021年4月）&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>PayPayAPI WEBアプリ開発</title>
@@ -18,6 +72,24 @@
       
       <guid>https://hoakari.github.io/paypay_web/</guid>
       <description>&lt;p&gt;PayPayAPIを利用したWEBアプリ開発。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Excel連携REST APIサーバー開発</title>
+      <link>https://hoakari.github.io/excel_calc_api/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoakari.github.io/excel_calc_api/</guid>
+      <description>&lt;p&gt;Windowsサーバー上で運用するREST APIサーバーの開発。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>RPA・業務自動化施策</title>
+      <link>https://hoakari.github.io/rpa_automation_measures/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoakari.github.io/rpa_automation_measures/</guid>
+      <description>&lt;p&gt;人件費削減、業務自動化施策補助。（2018年11月〜2019年12月）&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -32,19 +104,19 @@
     <item>
       <title>Selenium/Pythonによるスクレイピングシステム</title>
       <link>https://hoakari.github.io/selenium/</link>
-      <pubDate>Thu, 30 Dec 2010 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://hoakari.github.io/selenium/</guid>
       <description>&lt;p&gt;Selenium/Pythonを使ったスクレイピングシステムの開発、運用。&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Selenium/Pythonによるスクレイピングシステム</title>
-      <link>https://hoakari.github.io/selenium/</link>
+      <title>自宅ラジオ録音サーバー構築（Raspberry Pi）</title>
+      <link>https://hoakari.github.io/raspi_radio_recorder/</link>
       <pubDate>Thu, 30 Dec 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://hoakari.github.io/selenium/</guid>
-      <description>&lt;p&gt;Selenium/Pythonを使ったスクレイピングシステムの開発、運用。&lt;/p&gt;</description>
+      <guid>https://hoakari.github.io/raspi_radio_recorder/</guid>
+      <description>&lt;p&gt;Raspberry Piを利用したラジオ録音サーバーの制作。&lt;/p&gt;</description>
     </item>
     
   </channel>

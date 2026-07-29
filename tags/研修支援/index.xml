@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>研修支援 on Y.Miwa ポートフォリオ</title>
+    <link>https://hoakari.github.io/tags/%E7%A0%94%E4%BF%AE%E6%94%AF%E6%8F%B4/</link>
+    <description>Recent content in 研修支援 on Y.Miwa ポートフォリオ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 22 Jul 2026 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hoakari.github.io/tags/%E7%A0%94%E4%BF%AE%E6%94%AF%E6%8F%B4/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>生成AI活用レクチャー・導入支援（情報システム部門向け）</title>
+      <link>https://hoakari.github.io/ai_literacy_lecture/</link>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoakari.github.io/ai_literacy_lecture/</guid>
+      <description>&lt;p&gt;既存クライアント先（食品メーカー）の情報システム部門向けに、生成AI活用をテーマにした社内レクチャー・研修資料の企画立案を担当。（2026年7月〜、策定中）&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

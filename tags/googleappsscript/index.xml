@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GoogleAppsScript on Y.Miwa ポートフォリオ</title>
+    <link>https://hoakari.github.io/tags/googleappsscript/</link>
+    <description>Recent content in GoogleAppsScript on Y.Miwa ポートフォリオ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hoakari.github.io/tags/googleappsscript/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Google Apps Scriptによる社内ツール開発</title>
+      <link>https://hoakari.github.io/gas_tool/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoakari.github.io/gas_tool/</guid>
+      <description>&lt;p&gt;Google Apps Scriptを使用しての社内ツール開発。（2023年5月～2023年7月）&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Shopify更新自動化スクリプト開発（GoogleAppsScript）</title>
+      <link>https://hoakari.github.io/shopify_weekly_task_automation/</link>
+      <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoakari.github.io/shopify_weekly_task_automation/</guid>
+      <description>&lt;p&gt;ShopifyAPI + GoogleAppsScriptによるサイト更新自動化スクリプト、決済情報・顧客情報等の自動収集スクリプトの開発。（2020年11月〜、継続中）&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

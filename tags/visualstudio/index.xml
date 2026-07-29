@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VisualStudio on Y.Miwa ポートフォリオ</title>
+    <link>https://hoakari.github.io/tags/visualstudio/</link>
+    <description>Recent content in VisualStudio on Y.Miwa ポートフォリオ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Thu, 30 Dec 2010 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hoakari.github.io/tags/visualstudio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>メールアプリ（Xamarin/Android）</title>
+      <link>https://hoakari.github.io/xamarin_mail_app/</link>
+      <pubDate>Thu, 30 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoakari.github.io/xamarin_mail_app/</guid>
+      <description>&lt;p&gt;Xamarinを使用したAndroid向けメールアプリの個人開発。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

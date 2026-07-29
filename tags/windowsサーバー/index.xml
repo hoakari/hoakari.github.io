@@ -6,24 +6,24 @@
     <description>Recent content in Windowsサーバー on Y.Miwa ポートフォリオ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 30 Dec 2010 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://hoakari.github.io/tags/windows%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Selenium/Pythonによるスクレイピングシステム</title>
-      <link>https://hoakari.github.io/selenium/</link>
-      <pubDate>Thu, 30 Dec 2010 00:00:00 +0000</pubDate>
+      <title>Excel連携REST APIサーバー開発</title>
+      <link>https://hoakari.github.io/excel_calc_api/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://hoakari.github.io/selenium/</guid>
-      <description>&lt;p&gt;Selenium/Pythonを使ったスクレイピングシステムの開発、運用。&lt;/p&gt;</description>
+      <guid>https://hoakari.github.io/excel_calc_api/</guid>
+      <description>&lt;p&gt;Windowsサーバー上で運用するREST APIサーバーの開発。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Selenium/Pythonによるスクレイピングシステム</title>
       <link>https://hoakari.github.io/selenium/</link>
-      <pubDate>Thu, 30 Dec 2010 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://hoakari.github.io/selenium/</guid>
       <description>&lt;p&gt;Selenium/Pythonを使ったスクレイピングシステムの開発、運用。&lt;/p&gt;</description>

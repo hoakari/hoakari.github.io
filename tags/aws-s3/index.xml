@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AWS S3 on Y.Miwa ポートフォリオ</title>
+    <link>https://hoakari.github.io/tags/aws-s3/</link>
+    <description>Recent content in AWS S3 on Y.Miwa ポートフォリオ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hoakari.github.io/tags/aws-s3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>オンライン会見WEBアプリ開発</title>
+      <link>https://hoakari.github.io/online_press/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hoakari.github.io/online_press/</guid>
+      <description>&lt;p&gt;Djangoによるオンライン会見WEBアプリ開発。（2020年11月〜2021年4月）&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
