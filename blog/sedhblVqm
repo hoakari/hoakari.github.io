@@ -1,0 +1,20 @@
++++
+title = "IoT環境制御システム「Nautls」"
+date = "2026-07-27"
+categories = ["個人開発"]
+url = "/nautls/"
+description = "自律型スマート農業を目指す自社開発IoT環境制御システム"
+tags = ["IoT","Python"]
+draft = "true"
++++
+自律型スマート農業の実現を目指し、自社開発しているIoT環境制御システム「Nautls（ノーチラス）」。
+<!--more-->
+<!--toc-->
+
+## 概要
+
+（詳細は追記予定）
+
+## 主な使用技術
+
+- （追記予定）

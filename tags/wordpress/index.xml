@@ -1,24 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>WordPress on Y.Miwa ポートフォリオ</title>
+    <title>WordPress on Y.Miwa</title>
     <link>https://hoakari.github.io/tags/wordpress/</link>
-    <description>Recent content in WordPress on Y.Miwa ポートフォリオ</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in WordPress on Y.Miwa</description>
+    <generator>Hugo</generator>
     <language>ja</language>
     <lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://hoakari.github.io/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://hoakari.github.io/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WordPressによるブログ構築・運営</title>
       <link>https://hoakari.github.io/wordpress_blog/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://hoakari.github.io/wordpress_blog/</guid>
-      <description>&lt;p&gt;WordPressでのブログ立ち上げ〜運営。（2015年9月〜）&lt;/p&gt;</description>
+      <description>WordPressでのブログ立ち上げから運営まで</description>
     </item>
-    
   </channel>
 </rss>

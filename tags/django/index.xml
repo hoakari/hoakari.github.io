@@ -1,33 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Django on Y.Miwa ポートフォリオ</title>
+    <title>Django on Y.Miwa</title>
     <link>https://hoakari.github.io/tags/django/</link>
-    <description>Recent content in Django on Y.Miwa ポートフォリオ</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Django on Y.Miwa</description>
+    <generator>Hugo</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://hoakari.github.io/tags/django/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://hoakari.github.io/tags/django/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>オンライン会見WEBアプリ開発</title>
       <link>https://hoakari.github.io/online_press/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://hoakari.github.io/online_press/</guid>
-      <description>&lt;p&gt;Djangoによるオンライン会見WEBアプリ開発。（2020年11月〜2021年4月）&lt;/p&gt;</description>
+      <description>Djangoによるオンライン会見WEBアプリ開発</description>
     </item>
-    
     <item>
       <title>社内書類管理ウェブアプリ開発</title>
       <link>https://hoakari.github.io/django/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://hoakari.github.io/django/</guid>
       <description>&lt;p&gt;社内書類管理システムとして開発。ポジションは技術選定、設計、デザイン、実装を担当。&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

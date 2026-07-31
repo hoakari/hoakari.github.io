@@ -1,33 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>C# on Y.Miwa ポートフォリオ</title>
-    <link>https://hoakari.github.io/tags/c#/</link>
-    <description>Recent content in C# on Y.Miwa ポートフォリオ</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>C# on Y.Miwa</title>
+    <link>https://hoakari.github.io/tags/c%23/</link>
+    <description>Recent content in C# on Y.Miwa</description>
+    <generator>Hugo</generator>
     <language>ja</language>
     <lastBuildDate>Thu, 30 Dec 2010 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://hoakari.github.io/tags/c#/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://hoakari.github.io/tags/c%23/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unityによる個人ゲーム開発・リリース</title>
       <link>https://hoakari.github.io/unity_indie_games/</link>
       <pubDate>Thu, 30 Dec 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://hoakari.github.io/unity_indie_games/</guid>
-      <description>&lt;p&gt;Unityを使用した簡易的なゲームの個人開発。&lt;/p&gt;</description>
+      <description>Unityを使用したWeb・Android向け簡易ゲームの個人制作・リリース</description>
     </item>
-    
     <item>
       <title>メールアプリ（Xamarin/Android）</title>
       <link>https://hoakari.github.io/xamarin_mail_app/</link>
       <pubDate>Thu, 30 Dec 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://hoakari.github.io/xamarin_mail_app/</guid>
-      <description>&lt;p&gt;Xamarinを使用したAndroid向けメールアプリの個人開発。&lt;/p&gt;</description>
+      <description>Xamarinで開発したAndroid向けメールアプリ（リリース後、廃止済み）</description>
     </item>
-    
   </channel>
 </rss>
