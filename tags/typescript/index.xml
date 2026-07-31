@@ -4,6 +4,11 @@
     <title>TypeScript on Y.Miwa</title>
     <link>https://hoakari.github.io/tags/typescript/</link>
     <description>Recent content in TypeScript on Y.Miwa</description>
+    <image>
+      <title>Y.Miwa</title>
+      <url>https://hoakari.github.io/img/logo.png</url>
+      <link>https://hoakari.github.io/img/logo.png</link>
+    </image>
     <generator>Hugo</generator>
     <language>ja</language>
     <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>

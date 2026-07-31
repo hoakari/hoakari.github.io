@@ -4,6 +4,11 @@
     <title>Django on Y.Miwa</title>
     <link>https://hoakari.github.io/tags/django/</link>
     <description>Recent content in Django on Y.Miwa</description>
+    <image>
+      <title>Y.Miwa</title>
+      <url>https://hoakari.github.io/img/logo.png</url>
+      <link>https://hoakari.github.io/img/logo.png</link>
+    </image>
     <generator>Hugo</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
