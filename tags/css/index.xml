@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>CSS on Y.Miwa</title>
-    <link>https://hoakari.github.io/tags/css/</link>
+    <link>http://192.168.1.29:1313/tags/css/</link>
     <description>Recent content in CSS on Y.Miwa</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <lastBuildDate>Tue, 04 Aug 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://hoakari.github.io/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://192.168.1.29:1313/tags/css/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PayPayAPI WEBアプリ開発</title>
-      <link>https://hoakari.github.io/paypay_web/</link>
+      <link>http://192.168.1.29:1313/paypay_web/</link>
       <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://hoakari.github.io/paypay_web/</guid>
+      <guid>http://192.168.1.29:1313/paypay_web/</guid>
       <description>PayPayAPI WEBアプリ開発</description>
     </item>
     <item>
       <title>既存HTMLデザイン修正</title>
-      <link>https://hoakari.github.io/html_repair/</link>
+      <link>http://192.168.1.29:1313/html_repair/</link>
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://hoakari.github.io/html_repair/</guid>
+      <guid>http://192.168.1.29:1313/html_repair/</guid>
       <description>既存HTMLデザイン修正</description>
     </item>
     <item>
       <title>某社公式サイト改修</title>
-      <link>https://hoakari.github.io/homepage_remake/</link>
+      <link>http://192.168.1.29:1313/homepage_remake/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://hoakari.github.io/homepage_remake/</guid>
+      <guid>http://192.168.1.29:1313/homepage_remake/</guid>
       <description>&lt;p&gt;某社公式サイトの改修。
 主要ブラウザ間での差異を少なくするよう開発。&lt;/p&gt;</description>
     </item>

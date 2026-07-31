@@ -2,200 +2,200 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Y.Miwa</title>
-    <link>https://hoakari.github.io/</link>
+    <link>http://192.168.1.29:1313/</link>
     <description>Recent content on Y.Miwa</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <lastBuildDate>Wed, 22 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://hoakari.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://192.168.1.29:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>生成AI活用レクチャー・導入支援（情報システム部門向け）</title>
-      <link>https://hoakari.github.io/ai_literacy_lecture/</link>
+      <link>http://192.168.1.29:1313/ai_literacy_lecture/</link>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://hoakari.github.io/ai_literacy_lecture/</guid>
+      <guid>http://192.168.1.29:1313/ai_literacy_lecture/</guid>
       <description>クライアント先情報システム部門向けの生成AI活用レクチャー資料の企画・策定支援</description>
     </item>
     <item>
       <title>AWS EC2バージョンアップ・Docker化／Python近代化</title>
-      <link>https://hoakari.github.io/aws_docker_python_modernize/</link>
+      <link>http://192.168.1.29:1313/aws_docker_python_modernize/</link>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://hoakari.github.io/aws_docker_python_modernize/</guid>
+      <guid>http://192.168.1.29:1313/aws_docker_python_modernize/</guid>
       <description>既存AWS EC2環境のバージョンアップ・Docker化、Pythonプロジェクトの近代化(uv導入など)</description>
     </item>
     <item>
       <title>IEモード対象レガシー業務用WebサービスのRPA開発</title>
-      <link>https://hoakari.github.io/uipath_iemode_rpa/</link>
+      <link>http://192.168.1.29:1313/uipath_iemode_rpa/</link>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://hoakari.github.io/uipath_iemode_rpa/</guid>
+      <guid>http://192.168.1.29:1313/uipath_iemode_rpa/</guid>
       <description>IEモードでのみ動作するレガシーな業務用WebサービスをターゲットにしたUiPathによるRPA開発</description>
     </item>
     <item>
       <title>Goによる社内用Webアプリ・CLIアプリ開発</title>
-      <link>https://hoakari.github.io/go_webapp_cli/</link>
+      <link>http://192.168.1.29:1313/go_webapp_cli/</link>
       <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://hoakari.github.io/go_webapp_cli/</guid>
+      <guid>http://192.168.1.29:1313/go_webapp_cli/</guid>
       <description>Go(Gin)による簡易的な社内用Webアプリ、CLIアプリの開発</description>
     </item>
     <item>
       <title>初学者向けPython講座チャットサポート</title>
-      <link>https://hoakari.github.io/python_course_support/</link>
+      <link>http://192.168.1.29:1313/python_course_support/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://hoakari.github.io/python_course_support/</guid>
+      <guid>http://192.168.1.29:1313/python_course_support/</guid>
       <description>プログラミング初学者向けPython講座教材の受講生に対するチャットサポート</description>
     </item>
     <item>
       <title>ローコードツール(OutSystems)による受注システム開発</title>
-      <link>https://hoakari.github.io/outsystems_order/</link>
+      <link>http://192.168.1.29:1313/outsystems_order/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://hoakari.github.io/outsystems_order/</guid>
+      <guid>http://192.168.1.29:1313/outsystems_order/</guid>
       <description>OutsystemsによるFAX受注システムのリプレース</description>
     </item>
     <item>
       <title>初学者向けPython講座教材制作</title>
-      <link>https://hoakari.github.io/python_course_material/</link>
+      <link>http://192.168.1.29:1313/python_course_material/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://hoakari.github.io/python_course_material/</guid>
+      <guid>http://192.168.1.29:1313/python_course_material/</guid>
       <description>プログラミング初学者向けPython講座教材制作（動画教材）</description>
     </item>
     <item>
       <title>Google Apps Scriptによる社内ツール開発</title>
-      <link>https://hoakari.github.io/gas_tool/</link>
+      <link>http://192.168.1.29:1313/gas_tool/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://hoakari.github.io/gas_tool/</guid>
+      <guid>http://192.168.1.29:1313/gas_tool/</guid>
       <description>Google Apps Scriptを使用した社内ツール開発</description>
     </item>
     <item>
       <title>オンラインチケットサイトの機能追加改修・バグ修正</title>
-      <link>https://hoakari.github.io/ticket_site_maintenance/</link>
+      <link>http://192.168.1.29:1313/ticket_site_maintenance/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://hoakari.github.io/ticket_site_maintenance/</guid>
+      <guid>http://192.168.1.29:1313/ticket_site_maintenance/</guid>
       <description>Flask/Nuxt.jsで構築されたオンラインチケットサイトの機能追加改修、バグ修正</description>
     </item>
     <item>
       <title>Shopify×Salesforceデータ連携プログラム開発</title>
-      <link>https://hoakari.github.io/shopify_data_integration/</link>
+      <link>http://192.168.1.29:1313/shopify_data_integration/</link>
       <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://hoakari.github.io/shopify_data_integration/</guid>
+      <guid>http://192.168.1.29:1313/shopify_data_integration/</guid>
       <description>PythonによるShopify・Salesforce間のデータ連携プログラム開発</description>
     </item>
     <item>
       <title>会員サイト管理画面改修・コーポレートサイト問い合わせページ改修</title>
-      <link>https://hoakari.github.io/moak1_php_kaishu/</link>
+      <link>http://192.168.1.29:1313/moak1_php_kaishu/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://hoakari.github.io/moak1_php_kaishu/</guid>
+      <guid>http://192.168.1.29:1313/moak1_php_kaishu/</guid>
       <description>会員サイト管理画面へのログ取得機能追加、およびコーポレートサイト問い合わせページの改修</description>
     </item>
     <item>
       <title>Shopify更新自動化スクリプト開発（GoogleAppsScript）</title>
-      <link>https://hoakari.github.io/shopify_weekly_task_automation/</link>
+      <link>http://192.168.1.29:1313/shopify_weekly_task_automation/</link>
       <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://hoakari.github.io/shopify_weekly_task_automation/</guid>
+      <guid>http://192.168.1.29:1313/shopify_weekly_task_automation/</guid>
       <description>Shopify API × GoogleAppsScriptによるECサイト更新・決済/顧客情報収集の自動化</description>
     </item>
     <item>
       <title>Shopifyテーマ更新（Liquid）</title>
-      <link>https://hoakari.github.io/shopify_liquid_update/</link>
+      <link>http://192.168.1.29:1313/shopify_liquid_update/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://hoakari.github.io/shopify_liquid_update/</guid>
+      <guid>http://192.168.1.29:1313/shopify_liquid_update/</guid>
       <description>Liquid言語によるShopify ECサイトのテーマ・表示更新</description>
     </item>
     <item>
       <title>オンライン会見WEBアプリ開発</title>
-      <link>https://hoakari.github.io/online_press/</link>
+      <link>http://192.168.1.29:1313/online_press/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://hoakari.github.io/online_press/</guid>
+      <guid>http://192.168.1.29:1313/online_press/</guid>
       <description>Djangoによるオンライン会見WEBアプリ開発</description>
     </item>
     <item>
       <title>パソコン教室インストラクター業務</title>
-      <link>https://hoakari.github.io/pc_school/</link>
+      <link>http://192.168.1.29:1313/pc_school/</link>
       <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://hoakari.github.io/pc_school/</guid>
+      <guid>http://192.168.1.29:1313/pc_school/</guid>
       <description>パソコン教室での委託講師としてインストラクター業務。主な対象者は初心者やOffJTの新入社員。</description>
     </item>
     <item>
       <title>PayPayAPI WEBアプリ開発</title>
-      <link>https://hoakari.github.io/paypay_web/</link>
+      <link>http://192.168.1.29:1313/paypay_web/</link>
       <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://hoakari.github.io/paypay_web/</guid>
+      <guid>http://192.168.1.29:1313/paypay_web/</guid>
       <description>PayPayAPI WEBアプリ開発</description>
     </item>
     <item>
       <title>既存HTMLデザイン修正</title>
-      <link>https://hoakari.github.io/html_repair/</link>
+      <link>http://192.168.1.29:1313/html_repair/</link>
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://hoakari.github.io/html_repair/</guid>
+      <guid>http://192.168.1.29:1313/html_repair/</guid>
       <description>既存HTMLデザイン修正</description>
     </item>
     <item>
       <title>BluetoothスキャンAndroidアプリ開発</title>
-      <link>https://hoakari.github.io/android_app_bt/</link>
+      <link>http://192.168.1.29:1313/android_app_bt/</link>
       <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://hoakari.github.io/android_app_bt/</guid>
+      <guid>http://192.168.1.29:1313/android_app_bt/</guid>
       <description>KotlinでのAndroid開発。</description>
     </item>
     <item>
       <title>某社公式サイト改修</title>
-      <link>https://hoakari.github.io/homepage_remake/</link>
+      <link>http://192.168.1.29:1313/homepage_remake/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://hoakari.github.io/homepage_remake/</guid>
+      <guid>http://192.168.1.29:1313/homepage_remake/</guid>
       <description>&lt;p&gt;某社公式サイトの改修。
 主要ブラウザ間での差異を少なくするよう開発。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Excel連携REST APIサーバー開発</title>
-      <link>https://hoakari.github.io/excel_calc_api/</link>
+      <link>http://192.168.1.29:1313/excel_calc_api/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://hoakari.github.io/excel_calc_api/</guid>
+      <guid>http://192.168.1.29:1313/excel_calc_api/</guid>
       <description>計算ロジックを持つExcelファイルと連携するREST APIサーバーの開発</description>
     </item>
     <item>
       <title>ブログのリプレイス</title>
-      <link>https://hoakari.github.io/hugo/</link>
+      <link>http://192.168.1.29:1313/hugo/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://hoakari.github.io/hugo/</guid>
+      <guid>http://192.168.1.29:1313/hugo/</guid>
       <description>&lt;p&gt;個人管理ブログをWordPressよりリプレイス。&lt;/p&gt;</description>
     </item>
     <item>
       <title>RPA・業務自動化施策</title>
-      <link>https://hoakari.github.io/rpa_automation_measures/</link>
+      <link>http://192.168.1.29:1313/rpa_automation_measures/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://hoakari.github.io/rpa_automation_measures/</guid>
+      <guid>http://192.168.1.29:1313/rpa_automation_measures/</guid>
       <description>人件費削減、業務自動化施策の補助、Python・UiPathによるRPAスクリプト開発</description>
     </item>
     <item>
       <title>社内案件管理システム開発（Redmine）</title>
-      <link>https://hoakari.github.io/internal_redmine_system/</link>
+      <link>http://192.168.1.29:1313/internal_redmine_system/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://hoakari.github.io/internal_redmine_system/</guid>
+      <guid>http://192.168.1.29:1313/internal_redmine_system/</guid>
       <description>Redmineをコアとした社内申請・案件管理システムの構築、セットアップからカスタマイズまで担当</description>
     </item>
     <item>
       <title>RPA開発テスト</title>
-      <link>https://hoakari.github.io/uipath/</link>
+      <link>http://192.168.1.29:1313/uipath/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://hoakari.github.io/uipath/</guid>
+      <guid>http://192.168.1.29:1313/uipath/</guid>
       <description>説明</description>
     </item>
     <item>
       <title>社内書類管理ウェブアプリ開発</title>
-      <link>https://hoakari.github.io/django/</link>
+      <link>http://192.168.1.29:1313/django/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://hoakari.github.io/django/</guid>
+      <guid>http://192.168.1.29:1313/django/</guid>
       <description>&lt;p&gt;社内書類管理システムとして開発。ポジションは技術選定、設計、デザイン、実装を担当。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Selenium/Pythonによるスクレイピングシステム</title>
-      <link>https://hoakari.github.io/selenium/</link>
+      <link>http://192.168.1.29:1313/selenium/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://hoakari.github.io/selenium/</guid>
+      <guid>http://192.168.1.29:1313/selenium/</guid>
       <description>&lt;p&gt;Selenium/Pythonを使ったスクレイピングシステムの開発、運用。&lt;/p&gt;</description>
     </item>
     <item>
       <title>スキルセット</title>
-      <link>https://hoakari.github.io/skill/</link>
+      <link>http://192.168.1.29:1313/skill/</link>
       <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://hoakari.github.io/skill/</guid>
+      <guid>http://192.168.1.29:1313/skill/</guid>
       <description>&lt;p&gt;準委任業務、請負業務、インストラクター業務、個人開発を含みます。&lt;br&gt;
 実務以外は独学と記載。&lt;br&gt;
 (最終更新日: 2026年7月)&lt;/p&gt;
@@ -333,37 +333,37 @@
     </item>
     <item>
       <title>WordPressによるブログ構築・運営</title>
-      <link>https://hoakari.github.io/wordpress_blog/</link>
+      <link>http://192.168.1.29:1313/wordpress_blog/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://hoakari.github.io/wordpress_blog/</guid>
+      <guid>http://192.168.1.29:1313/wordpress_blog/</guid>
       <description>WordPressでのブログ立ち上げから運営まで</description>
     </item>
     <item>
       <title>Unityによる個人ゲーム開発・リリース</title>
-      <link>https://hoakari.github.io/unity_indie_games/</link>
+      <link>http://192.168.1.29:1313/unity_indie_games/</link>
       <pubDate>Thu, 30 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>https://hoakari.github.io/unity_indie_games/</guid>
+      <guid>http://192.168.1.29:1313/unity_indie_games/</guid>
       <description>Unityを使用したWeb・Android向け簡易ゲームの個人制作・リリース</description>
     </item>
     <item>
       <title>メールアプリ（Xamarin/Android）</title>
-      <link>https://hoakari.github.io/xamarin_mail_app/</link>
+      <link>http://192.168.1.29:1313/xamarin_mail_app/</link>
       <pubDate>Thu, 30 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>https://hoakari.github.io/xamarin_mail_app/</guid>
+      <guid>http://192.168.1.29:1313/xamarin_mail_app/</guid>
       <description>Xamarinで開発したAndroid向けメールアプリ（リリース後、廃止済み）</description>
     </item>
     <item>
       <title>開発環境</title>
-      <link>https://hoakari.github.io/dev_environment/</link>
+      <link>http://192.168.1.29:1313/dev_environment/</link>
       <pubDate>Thu, 30 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>https://hoakari.github.io/dev_environment/</guid>
+      <guid>http://192.168.1.29:1313/dev_environment/</guid>
       <description>普段使用している開発環境・ツール一覧</description>
     </item>
     <item>
       <title>自宅ラジオ録音サーバー構築（Raspberry Pi）</title>
-      <link>https://hoakari.github.io/raspi_radio_recorder/</link>
+      <link>http://192.168.1.29:1313/raspi_radio_recorder/</link>
       <pubDate>Thu, 30 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>https://hoakari.github.io/raspi_radio_recorder/</guid>
+      <guid>http://192.168.1.29:1313/raspi_radio_recorder/</guid>
       <description>Raspberry Piを使用したインターネットラジオの録音サーバー構築</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>AndroidStudio on Y.Miwa</title>
-    <link>https://hoakari.github.io/tags/androidstudio/</link>
+    <link>http://192.168.1.29:1313/tags/androidstudio/</link>
     <description>Recent content in AndroidStudio on Y.Miwa</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://hoakari.github.io/tags/androidstudio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://192.168.1.29:1313/tags/androidstudio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BluetoothスキャンAndroidアプリ開発</title>
-      <link>https://hoakari.github.io/android_app_bt/</link>
+      <link>http://192.168.1.29:1313/android_app_bt/</link>
       <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://hoakari.github.io/android_app_bt/</guid>
+      <guid>http://192.168.1.29:1313/android_app_bt/</guid>
       <description>KotlinでのAndroid開発。</description>
     </item>
   </channel>

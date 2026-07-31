@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Liquid on Y.Miwa</title>
-    <link>https://hoakari.github.io/tags/liquid/</link>
+    <link>http://192.168.1.29:1313/tags/liquid/</link>
     <description>Recent content in Liquid on Y.Miwa</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://hoakari.github.io/tags/liquid/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://192.168.1.29:1313/tags/liquid/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shopifyテーマ更新（Liquid）</title>
-      <link>https://hoakari.github.io/shopify_liquid_update/</link>
+      <link>http://192.168.1.29:1313/shopify_liquid_update/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://hoakari.github.io/shopify_liquid_update/</guid>
+      <guid>http://192.168.1.29:1313/shopify_liquid_update/</guid>
       <description>Liquid言語によるShopify ECサイトのテーマ・表示更新</description>
     </item>
   </channel>

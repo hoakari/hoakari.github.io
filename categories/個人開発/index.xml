@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>個人開発 on Y.Miwa</title>
-    <link>https://hoakari.github.io/categories/%E5%80%8B%E4%BA%BA%E9%96%8B%E7%99%BA/</link>
+    <link>http://192.168.1.29:1313/categories/%E5%80%8B%E4%BA%BA%E9%96%8B%E7%99%BA/</link>
     <description>Recent content in 個人開発 on Y.Miwa</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://hoakari.github.io/categories/%E5%80%8B%E4%BA%BA%E9%96%8B%E7%99%BA/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://192.168.1.29:1313/categories/%E5%80%8B%E4%BA%BA%E9%96%8B%E7%99%BA/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ブログのリプレイス</title>
-      <link>https://hoakari.github.io/hugo/</link>
+      <link>http://192.168.1.29:1313/hugo/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://hoakari.github.io/hugo/</guid>
+      <guid>http://192.168.1.29:1313/hugo/</guid>
       <description>&lt;p&gt;個人管理ブログをWordPressよりリプレイス。&lt;/p&gt;</description>
     </item>
     <item>
       <title>RPA開発テスト</title>
-      <link>https://hoakari.github.io/uipath/</link>
+      <link>http://192.168.1.29:1313/uipath/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://hoakari.github.io/uipath/</guid>
+      <guid>http://192.168.1.29:1313/uipath/</guid>
       <description>説明</description>
     </item>
     <item>
       <title>WordPressによるブログ構築・運営</title>
-      <link>https://hoakari.github.io/wordpress_blog/</link>
+      <link>http://192.168.1.29:1313/wordpress_blog/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://hoakari.github.io/wordpress_blog/</guid>
+      <guid>http://192.168.1.29:1313/wordpress_blog/</guid>
       <description>WordPressでのブログ立ち上げから運営まで</description>
     </item>
     <item>
       <title>Unityによる個人ゲーム開発・リリース</title>
-      <link>https://hoakari.github.io/unity_indie_games/</link>
+      <link>http://192.168.1.29:1313/unity_indie_games/</link>
       <pubDate>Thu, 30 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>https://hoakari.github.io/unity_indie_games/</guid>
+      <guid>http://192.168.1.29:1313/unity_indie_games/</guid>
       <description>Unityを使用したWeb・Android向け簡易ゲームの個人制作・リリース</description>
     </item>
     <item>
       <title>メールアプリ（Xamarin/Android）</title>
-      <link>https://hoakari.github.io/xamarin_mail_app/</link>
+      <link>http://192.168.1.29:1313/xamarin_mail_app/</link>
       <pubDate>Thu, 30 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>https://hoakari.github.io/xamarin_mail_app/</guid>
+      <guid>http://192.168.1.29:1313/xamarin_mail_app/</guid>
       <description>Xamarinで開発したAndroid向けメールアプリ（リリース後、廃止済み）</description>
     </item>
     <item>
       <title>自宅ラジオ録音サーバー構築（Raspberry Pi）</title>
-      <link>https://hoakari.github.io/raspi_radio_recorder/</link>
+      <link>http://192.168.1.29:1313/raspi_radio_recorder/</link>
       <pubDate>Thu, 30 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>https://hoakari.github.io/raspi_radio_recorder/</guid>
+      <guid>http://192.168.1.29:1313/raspi_radio_recorder/</guid>
       <description>Raspberry Piを使用したインターネットラジオの録音サーバー構築</description>
     </item>
   </channel>
