@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Salesforce on Y.Miwa</title>
-    <link>http://192.168.1.29:1313/tags/salesforce/</link>
+    <link>https://hoakari.github.io/tags/salesforce/</link>
     <description>Recent content in Salesforce on Y.Miwa</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <lastBuildDate>Thu, 04 Mar 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://192.168.1.29:1313/tags/salesforce/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hoakari.github.io/tags/salesforce/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shopify×Salesforceデータ連携プログラム開発</title>
-      <link>http://192.168.1.29:1313/shopify_data_integration/</link>
+      <link>https://hoakari.github.io/shopify_data_integration/</link>
       <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.29:1313/shopify_data_integration/</guid>
+      <guid>https://hoakari.github.io/shopify_data_integration/</guid>
       <description>PythonによるShopify・Salesforce間のデータ連携プログラム開発</description>
     </item>
   </channel>

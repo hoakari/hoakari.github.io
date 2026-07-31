@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Redmine on Y.Miwa</title>
-    <link>http://192.168.1.29:1313/tags/redmine/</link>
+    <link>https://hoakari.github.io/tags/redmine/</link>
     <description>Recent content in Redmine on Y.Miwa</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://192.168.1.29:1313/tags/redmine/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hoakari.github.io/tags/redmine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>社内案件管理システム開発（Redmine）</title>
-      <link>http://192.168.1.29:1313/internal_redmine_system/</link>
+      <link>https://hoakari.github.io/internal_redmine_system/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.29:1313/internal_redmine_system/</guid>
+      <guid>https://hoakari.github.io/internal_redmine_system/</guid>
       <description>Redmineをコアとした社内申請・案件管理システムの構築、セットアップからカスタマイズまで担当</description>
     </item>
   </channel>

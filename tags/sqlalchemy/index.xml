@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>SQLAlchemy on Y.Miwa</title>
-    <link>http://192.168.1.29:1313/tags/sqlalchemy/</link>
+    <link>https://hoakari.github.io/tags/sqlalchemy/</link>
     <description>Recent content in SQLAlchemy on Y.Miwa</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://192.168.1.29:1313/tags/sqlalchemy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hoakari.github.io/tags/sqlalchemy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>オンラインチケットサイトの機能追加改修・バグ修正</title>
-      <link>http://192.168.1.29:1313/ticket_site_maintenance/</link>
+      <link>https://hoakari.github.io/ticket_site_maintenance/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.29:1313/ticket_site_maintenance/</guid>
+      <guid>https://hoakari.github.io/ticket_site_maintenance/</guid>
       <description>Flask/Nuxt.jsで構築されたオンラインチケットサイトの機能追加改修、バグ修正</description>
     </item>
   </channel>

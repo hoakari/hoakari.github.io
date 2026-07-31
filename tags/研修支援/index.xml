@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>研修支援 on Y.Miwa</title>
-    <link>http://192.168.1.29:1313/tags/%E7%A0%94%E4%BF%AE%E6%94%AF%E6%8F%B4/</link>
+    <link>https://hoakari.github.io/tags/%E7%A0%94%E4%BF%AE%E6%94%AF%E6%8F%B4/</link>
     <description>Recent content in 研修支援 on Y.Miwa</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <lastBuildDate>Wed, 22 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://192.168.1.29:1313/tags/%E7%A0%94%E4%BF%AE%E6%94%AF%E6%8F%B4/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hoakari.github.io/tags/%E7%A0%94%E4%BF%AE%E6%94%AF%E6%8F%B4/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>生成AI活用レクチャー・導入支援（情報システム部門向け）</title>
-      <link>http://192.168.1.29:1313/ai_literacy_lecture/</link>
+      <link>https://hoakari.github.io/ai_literacy_lecture/</link>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.29:1313/ai_literacy_lecture/</guid>
+      <guid>https://hoakari.github.io/ai_literacy_lecture/</guid>
       <description>クライアント先情報システム部門向けの生成AI活用レクチャー資料の企画・策定支援</description>
     </item>
   </channel>

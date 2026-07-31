@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Laravel on Y.Miwa</title>
-    <link>http://192.168.1.29:1313/tags/laravel/</link>
+    <link>https://hoakari.github.io/tags/laravel/</link>
     <description>Recent content in Laravel on Y.Miwa</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://192.168.1.29:1313/tags/laravel/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hoakari.github.io/tags/laravel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>会員サイト管理画面改修・コーポレートサイト問い合わせページ改修</title>
-      <link>http://192.168.1.29:1313/moak1_php_kaishu/</link>
+      <link>https://hoakari.github.io/moak1_php_kaishu/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://192.168.1.29:1313/moak1_php_kaishu/</guid>
+      <guid>https://hoakari.github.io/moak1_php_kaishu/</guid>
       <description>会員サイト管理画面へのログ取得機能追加、およびコーポレートサイト問い合わせページの改修</description>
     </item>
   </channel>
