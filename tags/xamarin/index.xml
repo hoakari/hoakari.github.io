@@ -11,12 +11,12 @@
     </image>
     <generator>Hugo</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 30 Dec 2010 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Dec 2010 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://hoakari.github.io/tags/xamarin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>メールアプリ（Xamarin/Android）</title>
       <link>https://hoakari.github.io/xamarin_mail_app/</link>
-      <pubDate>Thu, 30 Dec 2010 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 30 Dec 2010 00:00:00 +0900</pubDate>
       <guid>https://hoakari.github.io/xamarin_mail_app/</guid>
       <description>Xamarinで開発したAndroid向けメールアプリ（リリース後、廃止済み）</description>
     </item>

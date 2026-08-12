@@ -2,18 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>IoT on Y.Miwa</title>
-    <link>http://localhost:1313/tags/iot/</link>
+    <link>https://hoakari.github.io/tags/iot/</link>
     <description>Recent content in IoT on Y.Miwa</description>
+    <image>
+      <title>Y.Miwa</title>
+      <url>https://hoakari.github.io/img/logo.png</url>
+      <link>https://hoakari.github.io/img/logo.png</link>
+    </image>
     <generator>Hugo</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 27 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/iot/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Jul 2026 00:00:00 +0900</lastBuildDate>
+    <atom:link href="https://hoakari.github.io/tags/iot/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IoT環境制御システム「Nautls」</title>
-      <link>http://localhost:1313/nautls/</link>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/nautls/</guid>
-      <description>自律型スマート農業を目指す自社開発IoT環境制御システム</description>
+      <link>https://hoakari.github.io/nautls/</link>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0900</pubDate>
+      <guid>https://hoakari.github.io/nautls/</guid>
+      <description>自律型スマート農業を目指し、企画・設計からハードウェア配線・サーバー実装までワンオペで手がける自社開発IoTシステム</description>
     </item>
   </channel>
 </rss>

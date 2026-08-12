@@ -11,26 +11,26 @@
     </image>
     <generator>Hugo</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2020 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://hoakari.github.io/tags/android/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BluetoothスキャンAndroidアプリ開発</title>
       <link>https://hoakari.github.io/android_app_bt/</link>
-      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0900</pubDate>
       <guid>https://hoakari.github.io/android_app_bt/</guid>
       <description>KotlinでのAndroid開発。</description>
     </item>
     <item>
       <title>Unityによる個人ゲーム開発・リリース</title>
       <link>https://hoakari.github.io/unity_indie_games/</link>
-      <pubDate>Thu, 30 Dec 2010 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 30 Dec 2010 00:00:00 +0900</pubDate>
       <guid>https://hoakari.github.io/unity_indie_games/</guid>
       <description>Unityを使用したWeb・Android向け簡易ゲームの個人制作・リリース</description>
     </item>
     <item>
       <title>メールアプリ（Xamarin/Android）</title>
       <link>https://hoakari.github.io/xamarin_mail_app/</link>
-      <pubDate>Thu, 30 Dec 2010 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 30 Dec 2010 00:00:00 +0900</pubDate>
       <guid>https://hoakari.github.io/xamarin_mail_app/</guid>
       <description>Xamarinで開発したAndroid向けメールアプリ（リリース後、廃止済み）</description>
     </item>

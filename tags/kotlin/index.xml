@@ -11,12 +11,12 @@
     </image>
     <generator>Hugo</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2020 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://hoakari.github.io/tags/kotlin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BluetoothスキャンAndroidアプリ開発</title>
       <link>https://hoakari.github.io/android_app_bt/</link>
-      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0900</pubDate>
       <guid>https://hoakari.github.io/android_app_bt/</guid>
       <description>KotlinでのAndroid開発。</description>
     </item>

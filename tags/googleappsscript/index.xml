@@ -11,19 +11,19 @@
     </image>
     <generator>Hugo</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 May 2023 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://hoakari.github.io/tags/googleappsscript/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Google Apps Scriptによる社内ツール開発</title>
       <link>https://hoakari.github.io/gas_tool/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0900</pubDate>
       <guid>https://hoakari.github.io/gas_tool/</guid>
       <description>Google Apps Scriptを使用した社内ツール開発</description>
     </item>
     <item>
       <title>Shopify更新自動化スクリプト開発（GoogleAppsScript）</title>
       <link>https://hoakari.github.io/shopify_weekly_task_automation/</link>
-      <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 16 Dec 2020 00:00:00 +0900</pubDate>
       <guid>https://hoakari.github.io/shopify_weekly_task_automation/</guid>
       <description>Shopify API × GoogleAppsScriptによるECサイト更新・決済/顧客情報収集の自動化</description>
     </item>

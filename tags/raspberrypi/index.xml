@@ -11,12 +11,19 @@
     </image>
     <generator>Hugo</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 30 Dec 2010 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://hoakari.github.io/tags/raspberrypi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IoT環境制御システム「Nautls」</title>
+      <link>https://hoakari.github.io/nautls/</link>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0900</pubDate>
+      <guid>https://hoakari.github.io/nautls/</guid>
+      <description>自律型スマート農業を目指し、企画・設計からハードウェア配線・サーバー実装までワンオペで手がける自社開発IoTシステム</description>
+    </item>
     <item>
       <title>自宅ラジオ録音サーバー構築（Raspberry Pi）</title>
       <link>https://hoakari.github.io/raspi_radio_recorder/</link>
-      <pubDate>Thu, 30 Dec 2010 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 30 Dec 2010 00:00:00 +0900</pubDate>
       <guid>https://hoakari.github.io/raspi_radio_recorder/</guid>
       <description>Raspberry Piを使用したインターネットラジオの録音サーバー構築</description>
     </item>

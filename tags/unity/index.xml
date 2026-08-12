@@ -11,12 +11,12 @@
     </image>
     <generator>Hugo</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 30 Dec 2010 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Dec 2010 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://hoakari.github.io/tags/unity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unityによる個人ゲーム開発・リリース</title>
       <link>https://hoakari.github.io/unity_indie_games/</link>
-      <pubDate>Thu, 30 Dec 2010 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 30 Dec 2010 00:00:00 +0900</pubDate>
       <guid>https://hoakari.github.io/unity_indie_games/</guid>
       <description>Unityを使用したWeb・Android向け簡易ゲームの個人制作・リリース</description>
     </item>

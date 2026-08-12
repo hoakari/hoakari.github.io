@@ -11,12 +11,12 @@
     </image>
     <generator>Hugo</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://hoakari.github.io/tags/redmine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>社内案件管理システム開発（Redmine）</title>
       <link>https://hoakari.github.io/internal_redmine_system/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0900</pubDate>
       <guid>https://hoakari.github.io/internal_redmine_system/</guid>
       <description>Redmineをコアとした社内申請・案件管理システムの構築、セットアップからカスタマイズまで担当</description>
     </item>

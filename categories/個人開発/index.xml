@@ -11,47 +11,61 @@
     </image>
     <generator>Hugo</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://hoakari.github.io/categories/%E5%80%8B%E4%BA%BA%E9%96%8B%E7%99%BA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>多言語どうぶつ図鑑アプリ「Nomina!」</title>
+      <link>https://hoakari.github.io/nomina/</link>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0900</pubDate>
+      <guid>https://hoakari.github.io/nomina/</guid>
+      <description>子ども向けの多言語どうぶつ図鑑Webアプリ。SvelteKit製・完全静的・バックエンドなし</description>
+    </item>
+    <item>
+      <title>IoT環境制御システム「Nautls」</title>
+      <link>https://hoakari.github.io/nautls/</link>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0900</pubDate>
+      <guid>https://hoakari.github.io/nautls/</guid>
+      <description>自律型スマート農業を目指し、企画・設計からハードウェア配線・サーバー実装までワンオペで手がける自社開発IoTシステム</description>
+    </item>
     <item>
       <title>ブログのリプレイス</title>
       <link>https://hoakari.github.io/hugo/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0900</pubDate>
       <guid>https://hoakari.github.io/hugo/</guid>
       <description>&lt;p&gt;個人管理ブログをWordPressよりリプレイス。&lt;/p&gt;</description>
     </item>
     <item>
       <title>RPA開発テスト</title>
       <link>https://hoakari.github.io/uipath/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0900</pubDate>
       <guid>https://hoakari.github.io/uipath/</guid>
       <description>説明</description>
     </item>
     <item>
       <title>WordPressによるブログ構築・運営</title>
       <link>https://hoakari.github.io/wordpress_blog/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0900</pubDate>
       <guid>https://hoakari.github.io/wordpress_blog/</guid>
       <description>WordPressでのブログ立ち上げから運営まで</description>
     </item>
     <item>
       <title>Unityによる個人ゲーム開発・リリース</title>
       <link>https://hoakari.github.io/unity_indie_games/</link>
-      <pubDate>Thu, 30 Dec 2010 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 30 Dec 2010 00:00:00 +0900</pubDate>
       <guid>https://hoakari.github.io/unity_indie_games/</guid>
       <description>Unityを使用したWeb・Android向け簡易ゲームの個人制作・リリース</description>
     </item>
     <item>
       <title>メールアプリ（Xamarin/Android）</title>
       <link>https://hoakari.github.io/xamarin_mail_app/</link>
-      <pubDate>Thu, 30 Dec 2010 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 30 Dec 2010 00:00:00 +0900</pubDate>
       <guid>https://hoakari.github.io/xamarin_mail_app/</guid>
       <description>Xamarinで開発したAndroid向けメールアプリ（リリース後、廃止済み）</description>
     </item>
     <item>
       <title>自宅ラジオ録音サーバー構築（Raspberry Pi）</title>
       <link>https://hoakari.github.io/raspi_radio_recorder/</link>
-      <pubDate>Thu, 30 Dec 2010 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 30 Dec 2010 00:00:00 +0900</pubDate>
       <guid>https://hoakari.github.io/raspi_radio_recorder/</guid>
       <description>Raspberry Piを使用したインターネットラジオの録音サーバー構築</description>
     </item>

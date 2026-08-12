@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html lang="ja" dir="auto" data-theme="dark">
+<html lang="ja" dir="auto" data-theme="auto">
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
@@ -9,17 +9,18 @@
 <meta name="keywords" content="">
 <meta name="description" content="フリーランスエンジニア Y.Miwaのポートフォリオサイトです。">
 <meta name="author" content="Y.Miwa">
-<link rel="canonical" href="http://localhost:1313/tags/iot/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.d2aae64527738f9fc155cc7cea69aefd5f1f588c7efde960c08ed738c86c585f.css" integrity="sha256-0qrmRSdzj5/BVcx86mmu/V8fWIx&#43;/elgwI7XOMhsWF8=" rel="preload stylesheet" as="style">
-<link rel="icon" href="http://localhost:1313/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
-<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
-<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
+<link rel="canonical" href="https://hoakari.github.io/tags/iot/">
+<meta name="google-site-verification" content="9LcTTyJF79RSHLFatU5uLKnlUlBstRqScYCYl5a0sNM">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.css" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://hoakari.github.io/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://hoakari.github.io/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://hoakari.github.io/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://hoakari.github.io/apple-touch-icon.png">
+<link rel="mask-icon" href="https://hoakari.github.io/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/tags/iot/index.xml" title="rss">
-<link rel="alternate" hreflang="ja" href="http://localhost:1313/tags/iot/">
+<link rel="alternate" type="application/rss+xml" href="https://hoakari.github.io/tags/iot/index.xml" title="rss">
+<link rel="alternate" hreflang="ja" href="https://hoakari.github.io/tags/iot/">
 <noscript>
     <style>
         #theme-toggle,
@@ -28,23 +29,56 @@
         }
 
     </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+    </style>
 </noscript>
 <script>
-    if (localStorage.getItem("pref-theme") === "light") {
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
         document.querySelector("html").dataset.theme = 'light';
     }
 
 </script><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/v4-shims.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
-<meta property="og:url" content="http://localhost:1313/tags/iot/">
+<meta property="og:url" content="https://hoakari.github.io/tags/iot/">
   <meta property="og:site_name" content="Y.Miwa">
   <meta property="og:title" content="IoT">
   <meta property="og:description" content="フリーランスエンジニア Y.Miwaのポートフォリオサイトです。">
   <meta property="og:locale" content="ja">
   <meta property="og:type" content="website">
+      <meta property="og:image" content="https://hoakari.github.io/img/logo.png">
 
-  <meta name="twitter:card" content="summary">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://hoakari.github.io/img/logo.png">
   <meta name="twitter:title" content="IoT">
   <meta name="twitter:description" content="フリーランスエンジニア Y.Miwaのポートフォリオサイトです。">
 
@@ -53,8 +87,46 @@
     <header class="header">
     <nav class="header-nav">
         <div class="logo">
-            <a href="http://localhost:1313/" accesskey="h" title="Y.Miwa (Alt + H)">Y.Miwa</a>
-            <div class="logo-switches">
+            <a href="https://hoakari.github.io/" accesskey="h" title="Y.Miwa (Alt + H)">Y.Miwa</a>
+        </div>
+        <ul id="menu" class="menu">
+            <li>
+                <a href="https://hoakari.github.io/skill/" title="スキルセット">
+                    <span>スキルセット</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://hoakari.github.io/categories/%E5%AE%9F%E5%8B%99%E5%B1%A5%E6%AD%B4/" title="実務履歴">
+                    <span>実務履歴</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://hoakari.github.io/categories/%E5%80%8B%E4%BA%BA%E9%96%8B%E7%99%BA/" title="個人開発">
+                    <span>個人開発</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://hoakari.github.io/works/" title="成果物">
+                    <span>成果物</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://forms.gle/co1GnwGC6RThPCkT6" title="お問い合わせ">
+                    <span><i class="fa-solid fa-envelope"></i> お問い合わせ</span>&nbsp;
+                    <svg fill="none" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round"
+                        stroke-linejoin="round" stroke-width="2.5" viewBox="0 0 24 24" height="12" width="12">
+                        <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"></path>
+                        <path d="M15 3h6v6"></path>
+                        <path d="M10 14L21 3"></path>
+                    </svg>
+                </a>
+            </li>
+            <li>
+                <a href="https://hoakari.github.io/search/" title="検索">
+                    <span><i class="fa-solid fa-magnifying-glass"></i></span>
+                </a>
+            </li>
+            <li class="theme-toggle-item">
                 <button id="theme-toggle" class="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
                     <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
                         fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
@@ -75,28 +147,6 @@
                         <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
                     </svg>
                 </button>
-            </div>
-        </div>
-        <ul id="menu" class="menu">
-            <li>
-                <a href="http://localhost:1313/skill/" title="スキルセット">
-                    <span>スキルセット</span>
-                </a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/categories/%E5%AE%9F%E5%8B%99%E5%B1%A5%E6%AD%B4/" title="実務履歴">
-                    <span>実務履歴</span>
-                </a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/categories/%E5%80%8B%E4%BA%BA%E9%96%8B%E7%99%BA/" title="個人開発">
-                    <span>個人開発</span>
-                </a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/search/" title="検索">
-                    <span><i class="fa-solid fa-magnifying-glass"></i></span>
-                </a>
             </li>
         </ul>
     </nav>
@@ -108,7 +158,7 @@
                 stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-right">
                 <polyline points="9 18 15 12 9 6"></polyline>
             </svg>
-            <a href="/tags/">Tags</a>
+            <a href="">Tags</a>
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
         stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-right">
         <polyline points="9 18 15 12 9 6"></polyline>
@@ -122,27 +172,22 @@
 <article class="post-entry tag-entry"> 
   <header class="entry-header">
     <h2 class="entry-hint-parent">IoT環境制御システム「Nautls」
-      <span class="entry-hint" title="Draft">
-        <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">
-          <path
-            d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
-        </svg>
-      </span>
     </h2>
   </header>
   <div class="entry-content">
-    <p>自律型スマート農業の実現を目指し、自社開発しているIoT環境制御システム「Nautls（ノーチラス）」。
+    <p>自律型スマート農業の実現を目指し、企画・設計から実装まで一人で手がけている自社開発IoT環境制御システム「Nautls（ノーチラス）」。（2026年1月〜、継続開発中）
 ...</p>
   </div>
   <footer class="entry-footer">
 
-<span title='2026-07-27 00:00:00 +0000 UTC'>2026年7月27日</span>&nbsp;·&nbsp;<span>1 分</span>&nbsp;·&nbsp;<span>Y.Miwa</span></footer>
-  <a class="entry-link" aria-label="post link to IoT環境制御システム「Nautls」" href="http://localhost:1313/nautls/"></a>
+<span title='2026-07-27 00:00:00 +0900 JST'>2026年7月27日</span>&nbsp;·&nbsp;<span>1 分</span>&nbsp;·&nbsp;<span>Y.Miwa</span></footer>
+  <a class="entry-link" aria-label="post link to IoT環境制御システム「Nautls」" href="https://hoakari.github.io/nautls/"></a>
 </article>
     </main>
     
 <footer class="footer">
-    <span>Copyright &copy; 2014-2026 <a href="http://localhost:1313/">Y.Miwa</a> All Rights Reserved.</span> · 
+    <span>Copyright &copy; 2014-2026 <a href="https://hoakari.github.io/">Y.Miwa</a> All Rights Reserved.</span> · 
+        <a href="https://forms.gle/co1GnwGC6RThPCkT6">お問い合わせはこちら</a> · 
 
     <span>
         Powered by

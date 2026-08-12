@@ -11,89 +11,96 @@
     </image>
     <generator>Hugo</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 20 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://hoakari.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IoT環境制御システム「Nautls」</title>
+      <link>https://hoakari.github.io/nautls/</link>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0900</pubDate>
+      <guid>https://hoakari.github.io/nautls/</guid>
+      <description>自律型スマート農業を目指し、企画・設計からハードウェア配線・サーバー実装までワンオペで手がける自社開発IoTシステム</description>
+    </item>
     <item>
       <title>AWS EC2バージョンアップ・Docker化／Python近代化</title>
       <link>https://hoakari.github.io/aws_docker_python_modernize/</link>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0900</pubDate>
       <guid>https://hoakari.github.io/aws_docker_python_modernize/</guid>
       <description>既存AWS EC2環境のバージョンアップ・Docker化、Pythonプロジェクトの近代化(uv導入など)</description>
     </item>
     <item>
       <title>初学者向けPython講座チャットサポート</title>
       <link>https://hoakari.github.io/python_course_support/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0900</pubDate>
       <guid>https://hoakari.github.io/python_course_support/</guid>
       <description>プログラミング初学者向けPython講座教材の受講生に対するチャットサポート</description>
     </item>
     <item>
       <title>初学者向けPython講座教材制作</title>
       <link>https://hoakari.github.io/python_course_material/</link>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0900</pubDate>
       <guid>https://hoakari.github.io/python_course_material/</guid>
       <description>プログラミング初学者向けPython講座教材制作（動画教材）</description>
     </item>
     <item>
       <title>オンラインチケットサイトの機能追加改修・バグ修正</title>
       <link>https://hoakari.github.io/ticket_site_maintenance/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0900</pubDate>
       <guid>https://hoakari.github.io/ticket_site_maintenance/</guid>
       <description>Flask/Nuxt.jsで構築されたオンラインチケットサイトの機能追加改修、バグ修正</description>
     </item>
     <item>
       <title>Shopify×Salesforceデータ連携プログラム開発</title>
       <link>https://hoakari.github.io/shopify_data_integration/</link>
-      <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 04 Mar 2021 00:00:00 +0900</pubDate>
       <guid>https://hoakari.github.io/shopify_data_integration/</guid>
       <description>PythonによるShopify・Salesforce間のデータ連携プログラム開発</description>
     </item>
     <item>
       <title>オンライン会見WEBアプリ開発</title>
       <link>https://hoakari.github.io/online_press/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0900</pubDate>
       <guid>https://hoakari.github.io/online_press/</guid>
       <description>Djangoによるオンライン会見WEBアプリ開発</description>
     </item>
     <item>
       <title>PayPayAPI WEBアプリ開発</title>
       <link>https://hoakari.github.io/paypay_web/</link>
-      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0900</pubDate>
       <guid>https://hoakari.github.io/paypay_web/</guid>
       <description>PayPayAPI WEBアプリ開発</description>
     </item>
     <item>
       <title>Excel連携REST APIサーバー開発</title>
       <link>https://hoakari.github.io/excel_calc_api/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0900</pubDate>
       <guid>https://hoakari.github.io/excel_calc_api/</guid>
       <description>計算ロジックを持つExcelファイルと連携するREST APIサーバーの開発</description>
     </item>
     <item>
       <title>RPA・業務自動化施策</title>
       <link>https://hoakari.github.io/rpa_automation_measures/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0900</pubDate>
       <guid>https://hoakari.github.io/rpa_automation_measures/</guid>
       <description>人件費削減、業務自動化施策の補助、Python・UiPathによるRPAスクリプト開発</description>
     </item>
     <item>
       <title>社内書類管理ウェブアプリ開発</title>
       <link>https://hoakari.github.io/django/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0900</pubDate>
       <guid>https://hoakari.github.io/django/</guid>
       <description>&lt;p&gt;社内書類管理システムとして開発。ポジションは技術選定、設計、デザイン、実装を担当。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Selenium/Pythonによるスクレイピングシステム</title>
       <link>https://hoakari.github.io/selenium/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0900</pubDate>
       <guid>https://hoakari.github.io/selenium/</guid>
       <description>&lt;p&gt;Selenium/Pythonを使ったスクレイピングシステムの開発、運用。&lt;/p&gt;</description>
     </item>
     <item>
       <title>自宅ラジオ録音サーバー構築（Raspberry Pi）</title>
       <link>https://hoakari.github.io/raspi_radio_recorder/</link>
-      <pubDate>Thu, 30 Dec 2010 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 30 Dec 2010 00:00:00 +0900</pubDate>
       <guid>https://hoakari.github.io/raspi_radio_recorder/</guid>
       <description>Raspberry Piを使用したインターネットラジオの録音サーバー構築</description>
     </item>

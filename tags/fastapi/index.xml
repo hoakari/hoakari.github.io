@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>FastAPI on Y.Miwa</title>
+    <link>https://hoakari.github.io/tags/fastapi/</link>
+    <description>Recent content in FastAPI on Y.Miwa</description>
+    <image>
+      <title>Y.Miwa</title>
+      <url>https://hoakari.github.io/img/logo.png</url>
+      <link>https://hoakari.github.io/img/logo.png</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 27 Jul 2026 00:00:00 +0900</lastBuildDate>
+    <atom:link href="https://hoakari.github.io/tags/fastapi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IoT環境制御システム「Nautls」</title>
+      <link>https://hoakari.github.io/nautls/</link>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0900</pubDate>
+      <guid>https://hoakari.github.io/nautls/</guid>
+      <description>自律型スマート農業を目指し、企画・設計からハードウェア配線・サーバー実装までワンオペで手がける自社開発IoTシステム</description>
+    </item>
+  </channel>
+</rss>

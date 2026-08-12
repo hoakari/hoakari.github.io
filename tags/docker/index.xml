@@ -11,12 +11,19 @@
     </image>
     <generator>Hugo</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 20 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://hoakari.github.io/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IoT環境制御システム「Nautls」</title>
+      <link>https://hoakari.github.io/nautls/</link>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0900</pubDate>
+      <guid>https://hoakari.github.io/nautls/</guid>
+      <description>自律型スマート農業を目指し、企画・設計からハードウェア配線・サーバー実装までワンオペで手がける自社開発IoTシステム</description>
+    </item>
     <item>
       <title>AWS EC2バージョンアップ・Docker化／Python近代化</title>
       <link>https://hoakari.github.io/aws_docker_python_modernize/</link>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0900</pubDate>
       <guid>https://hoakari.github.io/aws_docker_python_modernize/</guid>
       <description>既存AWS EC2環境のバージョンアップ・Docker化、Pythonプロジェクトの近代化(uv導入など)</description>
     </item>
