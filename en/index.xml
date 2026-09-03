@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Y.Miwa</title>
+    <link>https://hoakari.github.io/en/</link>
+    <description>Recent content on Y.Miwa</description>
+    <image>
+      <title>Y.Miwa</title>
+      <url>https://hoakari.github.io/img/logo.png</url>
+      <link>https://hoakari.github.io/img/logo.png</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 13 Aug 2026 00:00:00 +0900</lastBuildDate>
+    <atom:link href="https://hoakari.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Works</title>
+      <link>https://hoakari.github.io/en/works/</link>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0900</pubDate>
+      <guid>https://hoakari.github.io/en/works/</guid>
+      <description>&lt;p&gt;A list of personal projects. See each blog post for the full story behind them.&lt;/p&gt;
+&lt;div class=&#34;works-grid&#34;&gt;
+&lt;div class=&#34;works-item&#34;&gt;
+  &lt;span class=&#34;works-item-status status-live&#34;&gt;Live&lt;/span&gt;
+  &lt;h3 class=&#34;works-item-title&#34;&gt;&lt;a href=&#34;https://nomina2026.netlify.app&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Nomina!&lt;/a&gt;&lt;/h3&gt;
+  &lt;p class=&#34;works-item-desc&#34;&gt;A multilingual animal encyclopedia web app for kids. Tap an illustration to hear its name, and record your own voice (or your child&#39;s) to build a personalized encyclopedia. Fully static with no backend; recordings stay on-device only.&lt;/p&gt;
+  &lt;div class=&#34;works-badges&#34;&gt;
+    &lt;span class=&#34;works-badge&#34;&gt;TypeScript&lt;/span&gt;
+    &lt;span class=&#34;works-badge&#34;&gt;SvelteKit&lt;/span&gt;
+    &lt;span class=&#34;works-badge&#34;&gt;TailwindCSS&lt;/span&gt;
+    &lt;span class=&#34;works-badge&#34;&gt;PWA&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;works-links&#34;&gt;
+    &lt;a href=&#34;https://nomina2026.netlify.app&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Live demo&lt;/a&gt;
+    &lt;a href=&#34;https://github.com/hoakari/Nomina&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;GitHub&lt;/a&gt;
+    &lt;a href=&#34;https://hoakari.github.io/nomina/&#34;&gt;Development story (JP)&lt;/a&gt;
+    &lt;a href=&#34;https://x.com/nomina2026&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Official X&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;works-item is-wip&#34;&gt;
+  &lt;span class=&#34;works-item-status status-wip&#34;&gt;In progress&lt;/span&gt;
+  &lt;h3 class=&#34;works-item-title&#34;&gt;IoT Environmental Control System &#34;Nautls&#34;&lt;/h3&gt;
+  &lt;p class=&#34;works-item-desc&#34;&gt;An in-house IoT environmental control system aimed at autonomous smart agriculture. Full-stack IoT development spanning both software and hardware.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Skills</title>
+      <link>https://hoakari.github.io/en/skill/</link>
+      <pubDate>Tue, 06 Jun 2017 00:00:00 +0900</pubDate>
+      <guid>https://hoakari.github.io/en/skill/</guid>
+      <description>&lt;p&gt;Includes contract engineering work, instructor roles, and personal projects.
+Anything outside professional work is marked as self-taught.
+(Last updated: August 2026)&lt;/p&gt;
+&lt;h3&gt;&lt;i class=&#34;fa fa-terminal&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;Languages&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Python (9 yrs)&lt;/li&gt;
+&lt;li&gt;PHP (3 yrs)&lt;/li&gt;
+&lt;li&gt;Kotlin (2 yrs)&lt;/li&gt;
+&lt;li&gt;Google Apps Script (1 yr)&lt;/li&gt;
+&lt;li&gt;VBA (1 yr)&lt;/li&gt;
+&lt;li&gt;Go (6 mo)&lt;/li&gt;
+&lt;li&gt;HTML/CSS (9 yrs)&lt;/li&gt;
+&lt;li&gt;TypeScript (2 yrs)&lt;/li&gt;
+&lt;li&gt;Node.js (6 mo)&lt;/li&gt;
+&lt;li&gt;VBScript (6 mo)&lt;/li&gt;
+&lt;li&gt;VB.NET (6 mo)&lt;/li&gt;
+&lt;li&gt;Swift (6 mo)&lt;/li&gt;
+&lt;li&gt;C# (3 yrs)&lt;/li&gt;
+&lt;li&gt;C (1 yr)&lt;/li&gt;
+&lt;li&gt;Dart (self-taught)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;i class=&#34;fa fa-server&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;Backend Frameworks&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Django (3 yrs)&lt;/li&gt;
+&lt;li&gt;Flask (4 yrs)&lt;/li&gt;
+&lt;li&gt;CakePHP (6 mo)&lt;/li&gt;
+&lt;li&gt;FastAPI (self-taught)&lt;/li&gt;
+&lt;li&gt;Gin (6 mo)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;i class=&#34;fa fa-window-restore&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;Frontend Frameworks&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;jQuery (3 yrs)&lt;/li&gt;
+&lt;li&gt;Bootstrap (3 yrs)&lt;/li&gt;
+&lt;li&gt;Svelte/SvelteKit (used in shipped personal projects)&lt;/li&gt;
+&lt;li&gt;Tailwind CSS (used in shipped personal projects)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;i class=&#34;fa fa-sitemap&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;ORM&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;SQLAlchemy (2 yrs)&lt;/li&gt;
+&lt;li&gt;GORM (self-taught)&lt;/li&gt;
+&lt;li&gt;SQLModel (self-taught)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;i class=&#34;fa fa-globe&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;Static Site Generators&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Hugo (self-taught)&lt;/li&gt;
+&lt;li&gt;Gatsby (self-taught)&lt;/li&gt;
+&lt;li&gt;Astro (self-taught)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;i class=&#34;fa fa-gamepad&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;Game Engines&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Unity (2 yrs)&lt;/li&gt;
+&lt;li&gt;Godot (self-taught)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;i class=&#34;fa fa-cubes&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;Software Frameworks, Solutions &amp; Architecture&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Xamarin (6 mo)&lt;/li&gt;
+&lt;li&gt;Flutter (self-taught)&lt;/li&gt;
+&lt;li&gt;Electron (6 mo)&lt;/li&gt;
+&lt;li&gt;LAMP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;i class=&#34;fa fa-database&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;Databases&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;MySQL/MariaDB (8 yrs)&lt;/li&gt;
+&lt;li&gt;Access (2 yrs)&lt;/li&gt;
+&lt;li&gt;SQL Server (6 mo)&lt;/li&gt;
+&lt;li&gt;SQLite (self-taught)&lt;/li&gt;
+&lt;li&gt;PostgreSQL (self-taught)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;i class=&#34;fa fa-cloud&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;Cloud&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Amazon EC2 (9 yrs)&lt;/li&gt;
+&lt;li&gt;Amazon RDS (2 yrs)&lt;/li&gt;
+&lt;li&gt;AWS&lt;/li&gt;
+&lt;li&gt;Azure&lt;/li&gt;
+&lt;li&gt;GCP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;i class=&#34;fa fa-computer&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;OS&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Android (5 yrs)&lt;/li&gt;
+&lt;li&gt;Windows&lt;/li&gt;
+&lt;li&gt;Linux (CentOS, Ubuntu) (5 yrs)&lt;/li&gt;
+&lt;li&gt;Windows Server (6 mo)&lt;/li&gt;
+&lt;li&gt;Raspberry Pi (6 mo)&lt;/li&gt;
+&lt;li&gt;iOS (6 mo)&lt;/li&gt;
+&lt;li&gt;Apache HTTP Server (2 yrs)&lt;/li&gt;
+&lt;li&gt;Nginx (self-taught)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;i class=&#34;fa fa-pencil-square-o&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;Other&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;OutSystems (2+ yrs)&lt;/li&gt;
+&lt;li&gt;Redmine (3 yrs)&lt;/li&gt;
+&lt;li&gt;RPA (UiPath) (6+ mo)&lt;/li&gt;
+&lt;li&gt;Selenium (1 yr)&lt;/li&gt;
+&lt;li&gt;Microsoft Word (3 yrs)&lt;/li&gt;
+&lt;li&gt;Microsoft Excel (3 yrs)&lt;/li&gt;
+&lt;li&gt;Microsoft PowerPoint (3 yrs)&lt;/li&gt;
+&lt;li&gt;Streamlit (self-taught)&lt;/li&gt;
+&lt;li&gt;Docker&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;i class=&#34;fa fa-flask&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;AI&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;TensorFlow (self-taught)&lt;/li&gt;
+&lt;li&gt;PyTorch (self-taught)&lt;/li&gt;
+&lt;li&gt;Gemini&lt;/li&gt;
+&lt;li&gt;Grok&lt;/li&gt;
+&lt;li&gt;Claude (incl. Claude Code)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;i class=&#34;fa fa-paint-brush&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;Graphics &amp; Design&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Clip Studio Paint&lt;/li&gt;
+&lt;li&gt;Affinity Photo&lt;/li&gt;
+&lt;li&gt;Affinity Designer&lt;/li&gt;
+&lt;li&gt;Photoshop (6 mo)&lt;/li&gt;
+&lt;li&gt;Illustrator (6 mo)&lt;/li&gt;
+&lt;li&gt;Inkscape (self-taught)&lt;/li&gt;
+&lt;li&gt;Live2D Cubism (self-taught)&lt;/li&gt;
+&lt;li&gt;Aseprite (self-taught)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;i class=&#34;fa fa-film&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;Creative (Video)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;DaVinci Resolve&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;i class=&#34;fa fa-certificate&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;Certifications&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;G Kentei (Japan Deep Learning Association&amp;rsquo;s &amp;lsquo;Generalist&amp;rsquo; certification, covering AI/deep-learning literacy)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;i class=&#34;fa fa-wrench&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;Main Development Tools&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Visual Studio Code&lt;/li&gt;
+&lt;li&gt;WinSCP&lt;/li&gt;
+&lt;li&gt;PuTTY&lt;/li&gt;
+&lt;li&gt;Visual Studio&lt;/li&gt;
+&lt;li&gt;Android Studio&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
